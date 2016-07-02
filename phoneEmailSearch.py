@@ -1,5 +1,6 @@
 #! python3
 # phoneEmailSearch.py
+#author - Rishav Kumar
 
 import pyperclip, re
 
